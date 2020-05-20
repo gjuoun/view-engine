@@ -14,7 +14,7 @@ const app = new Application();
 app.use(viewEngine(oakAdapter, denjuckEngine));
 
 app.use(async (ctx, next) => {
-  ctx.render("./view/index.html", { data: { name: "John" } });
+  ctx.render("index.html", { data: { name: "John" } });
 });
 
 await app.listen({ port: 8000 });
