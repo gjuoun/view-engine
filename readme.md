@@ -9,6 +9,10 @@
 [![tag](https://img.shields.io/badge/deno-v1.0.0-green.svg)](https://github.com/denoland/deno)
 [![tag](https://img.shields.io/badge/std-0.51.0-green.svg)](https://github.com/denoland/deno)
 
+### Notice 
+
+> This repository is moving to [deligenius/view-engine](https://github.com/deligenius/view-engine) and will be maintained at the new repo.
+
 ### Features:
 
 - Support **multiple templating engines**📰
